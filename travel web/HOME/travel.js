@@ -406,7 +406,7 @@ if (typeof gsap !== 'undefined') {
 
  // Attach a function to redirect when the container is clicked
  contain.addEventListener('click', () => {
-  window.open("DESTINATION/earth.html", "_blank"); 
+  window.open("DESTINATION/DESTINATION.html", "_blank"); 
  });
 
  // Select the nested element with class 'calender'
